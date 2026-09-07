@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm a second year software engineering at Concordia University.
+I'm a third year software engineering at Concordia University.
 
 
 ## 🌐 Socials:
